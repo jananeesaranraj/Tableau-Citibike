@@ -10,5 +10,9 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
+**Data Extract and Clean**
+
+ Used Jupyter notebook to extract and combine the data of months July,August,September and october of 2013.Cleaned the data buy dropping null values and checked for the datatypes.Used the cleaned data in Tableau to implement dashboard for NewYorks's largest bike-sharing program.
+
 **Link to Tableau Story:**
 https://public.tableau.com/app/profile/jananee6827/viz/AssignmentStoryNew/Story1
