@@ -1,6 +1,6 @@
 # Tableau-Citibike
 
-![citi-bike-station-bikes](https://user-images.githubusercontent.com/112193116/218818692-420baefa-5ef7-4993-bcbe-b72ae0bb40af.jpg)
+![istockphoto-1334240853-1024x1024](https://user-images.githubusercontent.com/112193116/218824753-8cc5b59f-fee6-4a70-b504-813ae2a6c3a9.jpg)
 
 **Background**
 
